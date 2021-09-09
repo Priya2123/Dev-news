@@ -16,10 +16,10 @@ const Header = () => {
         `}
       </style> */}
       <h1 className={headerStyles.title}>
-        <span>Anything</span> News
+        <span>Dev</span> News
       </h1>
       <p className={headerStyles.description}>
-        Keep up tp date with the latest news
+        Keep up to date with the latest news
       </p>
     </div>
   );
