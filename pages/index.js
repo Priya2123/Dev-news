@@ -1,7 +1,4 @@
 //HOME PAGE
-
-// import styles from "../styles/Layout.module.css";
-// import Head from "next/head";
 import Article from "../components/Article";
 import { server } from "../config";
 export default function Home({ articles }) {
